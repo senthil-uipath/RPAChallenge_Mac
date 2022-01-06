@@ -3,7 +3,10 @@
   "description": "Building cross platform RPA Challenge to work on Mac/Linux",
   "main": "Main.xaml",
   "dependencies": {
+    "UiPath.Excel.Activities": "[2.12.0-preview]",
+    "UiPath.Mail.Activities": "[1.13.1-preview]",
     "UiPath.System.Activities": "[21.10.2]",
+    "UiPath.UIAutomation.Activities": "[21.12.0-preview]",
     "UiPath.WebAPI.Activities": "[1.9.2]"
   },
   "webServices": [],
